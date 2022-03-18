@@ -55,4 +55,4 @@ public class PrefixCmd extends AdminCommand
             event.replySuccess("Custom prefix set to `" + event.getArgs() + "` on *" + event.getGuild().getName() + "*");
         }
     }
-}
+}/unban JackOnRE8
